@@ -28,7 +28,7 @@
             <td>@student.Name</td>
             <td>@student.Email</td>
             <td>@student.Phone</td>
-            <td><a href="#">edit</a></td>
+                <td><a class="btn btn-primary" asp-controller="Student" asp-action="Edit" asp-route-id="@student.Id">edit</a></td>
             </tr>
         }
     </tbody>

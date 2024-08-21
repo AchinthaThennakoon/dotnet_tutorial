@@ -134,3 +134,4 @@ C:\Users\achin\Desktop\dot_net\mvc_crud\StudentPortalWeb\StudentPortalWeb\bin\De
 C:\Users\achin\Desktop\dot_net\mvc_crud\StudentPortalWeb\StudentPortalWeb\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\achin\Desktop\dot_net\mvc_crud\StudentPortalWeb\StudentPortalWeb\obj\Debug\net8.0\StudentPortalWeb.csproj.AssemblyReference.cache
 C:\Users\achin\Desktop\dot_net\mvc_crud\StudentPortalWeb\StudentPortalWeb\obj\Debug\net8.0\StudentP.B8440E7E.Up2Date
+C:\Users\achin\Desktop\dot_net\mvc_crud\StudentPortalWeb\StudentPortalWeb\obj\Debug\net8.0\StudentPortalWeb.sourcelink.json
